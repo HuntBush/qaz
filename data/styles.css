@@ -129,10 +129,14 @@
   font-size:18px;
   color:#666666;
 }
+._形状 {
+}
 .vertical_line {
 }
 .radio_button {
   text-align:left;
+}
+.table {
 }
 ._文本框 {
   color:#000000;

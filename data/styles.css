@@ -7,20 +7,6 @@
   text-align:center;
   line-height:normal;
 }
-.paragraph {
-  text-align:left;
-}
-.box_1 {
-}
-.ellipse {
-}
-.placeholder {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-._图片 {
-}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -62,28 +48,10 @@
   font-size:10px;
   text-align:left;
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
 ._文本段落 {
   text-align:left;
 }
-._流程形状 {
-}
-._34号字_单行列表内，左方主标题文字字） {
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  font-size:17px;
-  text-align:left;
-}
-.image {
-  color:#000000;
-}
-.line {
-}
-.droplist {
+.list_box {
   color:#000000;
   text-align:left;
 }
@@ -91,7 +59,7 @@
 }
 ._连接线 {
 }
-.icon {
+._流程形状 {
 }
 .box_2 {
 }
@@ -116,11 +84,15 @@
   font-size:18px;
   text-align:left;
 }
-.shape {
+.line {
 }
-.image1 {
+.box_1 {
+}
+.image {
   font-size:66px;
   color:#656565;
+}
+.icon {
 }
 .iconfont {
   font-family:'iconfont Regular', 'iconfont';
@@ -129,24 +101,35 @@
   font-size:18px;
   color:#666666;
 }
-._形状 {
-}
 .vertical_line {
+}
+.menu_item {
+}
+.sticky_1 {
+  text-align:left;
+}
+.ellipse {
+}
+.image1 {
+}
+.placeholder {
 }
 .radio_button {
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
 .table {
 }
-._文本框 {
-  color:#000000;
+.label {
+  font-size:14px;
   text-align:left;
 }
-._单选按钮 {
-  text-align:left;
+.horizontal_line {
 }
-._图片1 {
-  color:#000000;
+.paragraph {
+  text-align:left;
 }
 .heading_11 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
@@ -161,4 +144,45 @@
   font-style:normal;
   font-size:24px;
   text-align:left;
+}
+.shape {
+}
+.image2 {
+  color:#000000;
+}
+._图片 {
+}
+._图片1 {
+  color:#000000;
+}
+._垂直线 {
+}
+._水平线 {
+}
+._复选框 {
+  text-align:left;
+}
+.paragraph1 {
+  text-align:left;
+}
+.box_3 {
+}
+._文本段落1 {
+  text-align:left;
+}
+._一级标题1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._形状 {
 }

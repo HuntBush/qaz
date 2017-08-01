@@ -3221,3 +3221,33 @@
   width:0px;
   height:0px;
 }
+#u226_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:119px;
+  height:42px;
+  background:inherit;
+  background-color:rgba(0, 153, 255, 1);
+  border:none;
+  border-radius:2px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#FFFFFF;
+}
+#u226 {
+  position:absolute;
+  left:1242px;
+  top:128px;
+  width:119px;
+  height:42px;
+  color:#FFFFFF;
+}
+#u227 {
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:115px;
+  word-wrap:break-word;
+}

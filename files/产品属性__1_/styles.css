@@ -20954,3 +20954,31 @@
   width:30px;
   white-space:nowrap;
 }
+#u5299_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:74px;
+  background:inherit;
+  background-color:rgba(255, 223, 37, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+#u5299 {
+  position:absolute;
+  left:235px;
+  top:884px;
+  width:128px;
+  height:74px;
+}
+#u5300 {
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:108px;
+  word-wrap:break-word;
+}
